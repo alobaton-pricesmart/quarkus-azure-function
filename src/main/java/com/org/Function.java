@@ -1,4 +1,4 @@
-package com.pricesmart;
+package com.org;
 
 import com.microsoft.azure.functions.*;
 import com.microsoft.azure.functions.annotation.FunctionName;
