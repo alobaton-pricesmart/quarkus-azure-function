@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "java",
+    "TOPIC_NAME": "",
+    "SUBSCRIPTION_NAME": "",
+    "ServiceBusConnectionString": ""
+  }
+}
